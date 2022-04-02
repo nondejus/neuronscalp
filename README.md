@@ -1,2 +1,15 @@
-# neoronscalp
+# neuronscalp
+
+# kahuna
+https://en.wikipedia.org/wiki/Kahuna
+
+# primary motor cortex
+https://en.wikipedia.org/wiki/Primary_motor_cortex
+
+# upper motor neuron
+https://en.wikipedia.org/wiki/Upper_motor_neuron
+
+# scalping
+https://en.wikipedia.org/wiki/Scalping
+
 doctor robin in action
